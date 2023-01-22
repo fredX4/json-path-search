@@ -1,0 +1,28 @@
+{
+  "name": "json-path-search",
+  "version": "1.0.0",
+  "description": "A simple utility for traversing a JSON object using relative paths",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredX4/json-path-search.git"
+  },
+  "keywords": [
+    "json",
+    "json-search",
+    "json-key",
+    "json-path"
+  ],
+  "author": "Freddy Jetty Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fredX4/json-path-search/issues"
+  },
+  "homepage": "https://github.com/fredX4/json-path-search#readme"
+}
