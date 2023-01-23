@@ -1,6 +1,6 @@
 {
   "name": "json-path-search",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "description": "A simple utility for traversing a JSON object using relative paths",
   "main": "index.js",
   "directories": {
